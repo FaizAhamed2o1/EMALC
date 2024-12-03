@@ -9,6 +9,7 @@ export default {
         inverseSecondary: "#F0F1F5",
         brandLight: "#00E599",
         brandRegular: "#00452E",
+        customBaseTertiary: "#757D85",
       },
 
       borderRadius: {
