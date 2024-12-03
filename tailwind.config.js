@@ -25,6 +25,16 @@ export default {
         "mx-18": "72px",
         "my-18": "72px",
       },
+
+      padding: {
+        "p-18": "72px",
+        "pt-18": "72px",
+        "pr-18": "72px",
+        "pb-18": "72px",
+        "pl-18": "72px",
+        "px-18": "72px",
+        "py-18": "72px",
+      },
     },
   },
   plugins: [],

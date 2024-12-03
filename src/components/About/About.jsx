@@ -13,7 +13,7 @@ const About = () => {
         <div className="md:mb-10 mb-8 space-y-4 text-center">
           <SmallButtonLight buttonText="About"></SmallButtonLight>
 
-          <h2 className="text-5xl font-bold">
+          <h2 className="md:text-5xl text-3xl font-bold">
             Avoid the spam folder, Send Smartly
           </h2>
 
